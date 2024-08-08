@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 14_WebMVC_App1
+  mvc:
+    view:
+      prefix: /views/
+      suffix: .jsp
